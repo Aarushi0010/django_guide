@@ -1,2 +1,2 @@
 # django_guide
-A complete django guide 
+covering easy to hard concepts, with regular updates. 
