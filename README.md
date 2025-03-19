@@ -2,6 +2,6 @@
 covering easy to hard concepts, with regular updates. 
 
 <h2>Fundamentals</h2>
-1. MVT(Model-View-Template) architecture
-
+1. MVT(Model-View-Template) architecture <br>
+References : [video](https://www.youtube.com/watch?v=GGkFg52Ot5o) <br>
 2. Request-Response cycle 
